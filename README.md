@@ -1,5 +1,8 @@
 # Django Projesini Yayına Alma
 
+### Bu dökümantasyon barışarslan tarafından hazırlanmıştır. Kendisine teşekkürlerimizi sunuyoruz.
+
+
 [YouTube kanalımdaki](https://www.youtube.com/channel/UC5bnqsX71d-eKCHhNvM2U6g) **[Django Uygulamasını Yayına Alma](https://www.youtube.com/playlist?list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o)** adlı video ders serisi için dökümantasyon. 
 
 Kullanılan teknolojiler : **Ubuntu 16.04, Nginx, Gunicorn, PostgreSQL**
